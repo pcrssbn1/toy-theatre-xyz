@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://toy-theatre.xyz/sitemap.xml
